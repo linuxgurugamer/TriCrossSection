@@ -23,3 +23,6 @@ Changelog
 
 	Mod requirements
 		B9 Part Switch
+
+1.1.0.1
+	fixed B9 tank type error
