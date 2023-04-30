@@ -26,3 +26,7 @@ Changelog
 
 1.1.0.1
 	fixed B9 tank type error
+
+1.1.1
+	Thanks to github user @Nazalassa for this
+		Add French localization
