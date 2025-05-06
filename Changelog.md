@@ -30,3 +30,7 @@ Changelog
 1.1.1
 	Thanks to github user @Nazalassa for this
 		Add French localization
+
+1.1.1.1
+	Thanks to github user @averageksp for this:
+		Added the .cfg "de-de" which included the German Translation
